@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="Forecast_Details">You FUCKED UP BC!!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh" translatable = "false">Refresh</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_settings">SettingsACtivity</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
