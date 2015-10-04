@@ -41,7 +41,7 @@ public class SettingsActivity extends PreferenceActivity
      * is changed.)
      */
     private void bindPreferenceSummaryToValue(Preference preference) {
-        // 'Set the listener to watch for value changes.
+        // Set the listener to watch for value changes.
         preference.setOnPreferenceChangeListener(this);
 
         // Trigger the listener immediately with the preference's
