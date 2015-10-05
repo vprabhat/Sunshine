@@ -55,7 +55,7 @@ public class DetailActivity extends ActionBarActivity {
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
             SettingsActivity settingsActivity=new SettingsActivity();
-            System.out.println("FUCK YEAH");
+            System.out.println("Testing Yes");
             return true;
         }
 
